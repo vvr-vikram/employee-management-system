@@ -332,7 +332,7 @@ Authorization: Bearer <token>
     {
       "id": 1,
       "firstName": "Vikram",
-      "lastName": "Kumar",
+      "lastName": "V",
       "email": "vikram@ems.com",
       "phone": "9876543210",
       "salary": 75000,
@@ -372,7 +372,7 @@ Authorization: Bearer <token>
 {
   "id": 1,
   "firstName": "Vikram",
-  "lastName": "Kumar",
+  "lastName": "V",
   "email": "vikram@ems.com",
   "phone": "9876543210",
   "salary": 75000,
@@ -420,7 +420,7 @@ Create new employee.
 ```json
 {
   "firstName": "Ravi",
-  "lastName": "Kumar",
+  "lastName": "R",
   "email": "ravi@ems.com",
   "phone": "9876543299",
   "salary": 60000,
@@ -446,7 +446,7 @@ Location: /api/employees/7
 {
   "id": 7,
   "firstName": "Ravi",
-  "lastName": "Kumar",
+  "lastName": "R",
   "email": "ravi@ems.com",
   "phone": "9876543299",
   "salary": 60000,
@@ -476,7 +476,7 @@ Update employee (all fields).
 ```json
 {
   "firstName": "Ravi",
-  "lastName": "Kumar",
+  "lastName": "R",
   "email": "ravi@ems.com",
   "phone": "9876543299",
   "salary": 65000,
@@ -513,7 +513,7 @@ Authorization: Bearer <admin_token>
 {
   "id": 1,
   "firstName": "Vikram",
-  "lastName": "Kumar",
+  "lastName": "V",
   "status": "ON_LEAVE",
   /* ... other fields ... */
 }
@@ -706,7 +706,7 @@ days=30  (default: 30)
   {
     "id": 6,
     "firstName": "Sneha",
-    "lastName": "Iyer",
+    "lastName": "S",
     "email": "sneha@ems.com",
     "hireDate": "2024-02-14",
     "status": "ACTIVE",
