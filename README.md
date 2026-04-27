@@ -4,7 +4,7 @@ A **production-ready REST API backend** built with **Spring Boot 3**, **Spring S
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Overview](#overview)
 2. [Tech Stack](#tech-stack)
@@ -29,16 +29,16 @@ A **production-ready REST API backend** built with **Spring Boot 3**, **Spring S
 
 ### Key Features
 
-- ✅ **JWT-based Authentication** - Stateless, scalable token-based auth
-- ✅ **Role-Based Access Control** - ADMIN, HR, VIEWER roles with method-level security
-- ✅ **Employee CRUD** - Full create, read, update, delete operations with soft deletes
-- ✅ **Department Management** - Organize employees by departments
-- ✅ **Analytics Dashboard** - Real-time employee statistics and salary insights
-- ✅ **Audit Logging** - Track all changes with timestamps and user info
-- ✅ **Comprehensive Error Handling** - Standardized error responses
-- ✅ **AOP Logging** - Cross-cutting logging with execution timing
-- ✅ **Unit Tests** - 23+ tests with JUnit 5 and Mockito
-- ✅ **Production Ready** - Follows Spring Boot best practices
+-  **JWT-based Authentication** - Stateless, scalable token-based auth
+-  **Role-Based Access Control** - ADMIN, HR, VIEWER roles with method-level security
+-  **Employee CRUD** - Full create, read, update, delete operations with soft deletes
+-  **Department Management** - Organize employees by departments
+-  **Analytics Dashboard** - Real-time employee statistics and salary insights
+-  **Audit Logging** - Track all changes with timestamps and user info
+-  **Comprehensive Error Handling** - Standardized error responses
+-  **AOP Logging** - Cross-cutting logging with execution timing
+-  **Unit Tests** - 23+ tests with JUnit 5 and Mockito
+-  **Production Ready** - Follows Spring Boot best practices
 
 ---
 
